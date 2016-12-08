@@ -4,3 +4,4 @@ I really hope it gets merged to master.
 
 
 This is just a sample.
+Hi
